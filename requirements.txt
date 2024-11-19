@@ -12,4 +12,3 @@ certifi==2024.8.30        # Compatible with Python 3.9
 pytz==2024.2              # Compatible with Python 3.9
 six==1.16.0               # Compatible with Python 3.9
 scipy==1.9.3              # Replaced with compatible version
-fastapi-middleware-cors==0.1.0  # Compatible with Python 3.9
