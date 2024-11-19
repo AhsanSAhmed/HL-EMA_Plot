@@ -1,15 +1,15 @@
-fastapi==0.115.4
-uvicorn==0.22.0
-pydantic==2.9.2
-yfinance==0.2.49
-matplotlib==3.9.2
-aiofiles==23.1.0
-python-multipart==0.0.17
-httpx==0.24.1
-pandas==2.2.3
-numpy==2.0.2
-certifi==2024.8.30
-pytz==2024.2
-six==1.16.0
-scipy==1.14.1
-fastapi-middleware-cors==0.1.0
+fastapi==0.95.1           # Compatible with Python 3.9
+uvicorn==0.22.0           # Compatible with Python 3.9
+pydantic==2.9.2           # Compatible with Python 3.9
+yfinance==0.2.49          # Compatible with Python 3.9
+matplotlib==3.9.2         # Compatible with Python 3.9
+aiofiles==23.1.0          # Compatible with Python 3.9
+python-multipart==0.0.17  # Compatible with Python 3.9
+httpx==0.24.1             # Compatible with Python 3.9
+pandas==2.2.3            # Compatible with Python 3.9
+numpy==1.23.5             # Adjusted for compatibility with Python 3.9
+certifi==2024.8.30        # Compatible with Python 3.9
+pytz==2024.2              # Compatible with Python 3.9
+six==1.16.0               # Compatible with Python 3.9
+scipy==1.9.3              # Replaced with compatible version
+fastapi-middleware-cors==0.1.0  # Compatible with Python 3.9
